@@ -1,0 +1,9 @@
+* {
+    margin: 0;
+}
+
+.header {
+    padding: 8px 16px;
+    font-size: 20px;
+    background-color: bisque;
+}
